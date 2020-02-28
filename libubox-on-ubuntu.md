@@ -1,4 +1,4 @@
-# Using `libubox`, `ubus` and `uci` on Ubuntu
+# Using `libubox`, `ubus` and `uci` on OPENWRT OS :
 
 ## `libubox`
 
